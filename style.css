@@ -1,0 +1,23 @@
+
+table{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  min-width: 300px;
+  margin-top: 50px;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  border: collapse;
+  padding: 5px;
+}
+
+.nome{
+  text-align: left;
+}
+
+.cor{
+  background-color: rgb(240,248,255);
+}
+
+
+
